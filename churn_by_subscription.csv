@@ -1,0 +1,4 @@
+Subscription Type,Total_Customers,Churned_Customers,Churn_Rate
+Basic,143026,83210.0,58.18
+Premium,148678,83173.0,55.94
+Standard,149128,83616.0,56.07
